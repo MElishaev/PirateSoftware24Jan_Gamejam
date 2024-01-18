@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\secre\\documents\\unreal projects\\psgamejam\\plugins\\dynamicsky\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dynamicsky\\module.dynamicsky.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\secre\\documents\\unreal projects\\psgamejam\\intermediate\\build\\win64\\x64\\psgamejameditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\secre\\documents\\unreal projects\\psgamejam\\plugins\\dynamicsky\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dynamicsky\\definitions.dynamicsky.h",
+            "c:\\users\\secre\\documents\\unreal projects\\psgamejam\\plugins\\dynamicsky\\source\\dynamicsky\\private\\dynamicsky.cpp",
+            "c:\\users\\secre\\documents\\unreal projects\\psgamejam\\plugins\\dynamicsky\\source\\dynamicsky\\public\\dynamicsky.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

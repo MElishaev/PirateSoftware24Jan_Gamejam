@@ -1,0 +1,8 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.DynamicSky.cpp.obj": [
+			"DynamicSky.cpp.obj"
+		]
+	}
+}

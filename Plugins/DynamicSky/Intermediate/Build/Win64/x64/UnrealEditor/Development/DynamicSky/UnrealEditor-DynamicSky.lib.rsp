@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-DynamicSky.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\secre\Documents\Unreal Projects\PSGameJam\Intermediate\Build\Win64\x64\PSGameJamEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\secre\Documents\Unreal Projects\PSGameJam\Plugins\DynamicSky\Intermediate\Build\Win64\x64\UnrealEditor\Development\DynamicSky\Module.DynamicSky.cpp.obj"
+"C:\Users\secre\Documents\Unreal Projects\PSGameJam\Plugins\DynamicSky\Intermediate\Build\Win64\x64\UnrealEditor\Development\DynamicSky\Default.rc2.res"
+/OUT:"C:\Users\secre\Documents\Unreal Projects\PSGameJam\Plugins\DynamicSky\Intermediate\Build\Win64\x64\UnrealEditor\Development\DynamicSky\UnrealEditor-DynamicSky.lib"
