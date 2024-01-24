@@ -8,14 +8,6 @@
 			"Name": "PSGameJam",
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
-		},
-		{
-			"Name": "CommonUtilities",
-			"Type": "Runtime",
-			"LoadingPhase": "Default",
-			"AdditionalDependencies": [
-				"UMG"
-			]
 		}
 	],
 	"Plugins": [
